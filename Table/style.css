@@ -1,0 +1,12 @@
+table {
+  text-align: center;
+}
+
+th,
+.special {
+  background-color: #f2f2f2;
+}
+
+.bold{
+font-weight: bold;
+}
